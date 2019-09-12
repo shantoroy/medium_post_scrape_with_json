@@ -1,0 +1,155 @@
+
+
+No of Topics : 5
+
+
+Topic: 0 ---- Words: 0.095*"bitcoin" + 0.026*"ethereum" + 0.018*"bitcoin’s" + 0.014*"need" + 0.013*"know" + 0.013*"part" + 0.013*"blockchain" + 0.012*"1" + 0.012*"—" + 0.011*"future"
+Topic: 1 ---- Words: 0.071*"bitcoin" + 0.035*"blockchain" + 0.021*"metamask" + 0.017*"cash" + 0.016*"—" + 0.012*"bitcoinreal" + 0.011*"v" + 0.011*"network" + 0.009*"wallet" + 0.008*"update"
+Topic: 2 ---- Words: 0.074*"bitcoin" + 0.061*"ethereum" + 0.025*"metamask" + 0.014*"mining" + 0.013*"—" + 0.012*"part" + 0.010*"blockchain" + 0.010*"guide" + 0.009*"trading" + 0.008*"using"
+Topic: 3 ---- Words: 0.070*"contract" + 0.063*"smart" + 0.029*"ethereum" + 0.026*"solidity" + 0.014*"—" + 0.013*"blockchain" + 0.009*"development" + 0.008*"part" + 0.008*"developer" + 0.008*"tutorial"
+Topic: 4 ---- Words: 0.048*"bitcoin" + 0.027*"ripple" + 0.022*"—" + 0.022*"cryptocurrency" + 0.022*"xrp" + 0.014*"altcoin" + 0.013*"analysis" + 0.012*"btc" + 0.011*"blockchain" + 0.010*"eth"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 6
+
+
+Topic: 0 ---- Words: 0.054*"contract" + 0.049*"smart" + 0.041*"ethereum" + 0.037*"—" + 0.028*"part" + 0.025*"bitcoin" + 0.017*"solidity" + 0.016*"1" + 0.015*"blockchain" + 0.009*"2"
+Topic: 1 ---- Words: 0.039*"blockchain" + 0.028*"bitcoin’s" + 0.015*"ethereum" + 0.010*"network" + 0.010*"metamask" + 0.009*"—" + 0.008*"lightning" + 0.008*"need" + 0.008*"new" + 0.007*"case"
+Topic: 2 ---- Words: 0.062*"bitcoin" + 0.062*"metamask" + 0.025*"blockchain" + 0.023*"wallet" + 0.018*"future" + 0.017*"token" + 0.016*"ethereum" + 0.013*"know" + 0.011*"use" + 0.011*"using"
+Topic: 3 ---- Words: 0.058*"bitcoin" + 0.033*"cryptocurrency" + 0.033*"xrp" + 0.021*"altcoin" + 0.017*"btc" + 0.017*"ripple" + 0.016*"analysis" + 0.015*"eth" + 0.014*"eos" + 0.013*"review"
+Topic: 4 ---- Words: 0.133*"bitcoin" + 0.019*"price" + 0.015*"mining" + 0.014*"bitcoinreal" + 0.014*"v" + 0.013*"fork" + 0.011*"—" + 0.009*"change" + 0.009*"gold" + 0.008*"better"
+Topic: 5 ---- Words: 0.072*"bitcoin" + 0.044*"ethereum" + 0.022*"guide" + 0.020*"blockchain" + 0.018*"cash" + 0.011*"solidity" + 0.008*"token" + 0.007*"make" + 0.007*"developer" + 0.007*"update"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 7
+
+
+Topic: 0 ---- Words: 0.078*"bitcoin" + 0.056*"ethereum" + 0.028*"part" + 0.023*"—" + 0.019*"1" + 0.014*"mining" + 0.013*"blockchain" + 0.013*"network" + 0.012*"need" + 0.012*"bitcoin’s"
+Topic: 1 ---- Words: 0.043*"ethereum" + 0.038*"blockchain" + 0.030*"bitcoin" + 0.012*"getting" + 0.010*"game" + 0.009*"started" + 0.009*"different" + 0.008*"way" + 0.008*"2" + 0.007*"what’s"
+Topic: 2 ---- Words: 0.131*"bitcoin" + 0.028*"—" + 0.011*"ethereum" + 0.011*"cryptocurrencies" + 0.011*"blockchain" + 0.009*"guide" + 0.008*"update" + 0.008*"scaling" + 0.008*"bubble" + 0.007*"stop"
+Topic: 3 ---- Words: 0.047*"metamask" + 0.031*"blockchain" + 0.024*"token" + 0.022*"bitcoin" + 0.011*"solidity" + 0.011*"wallet" + 0.010*"use" + 0.010*"using" + 0.008*"world" + 0.007*"money"
+Topic: 4 ---- Words: 0.066*"bitcoin" + 0.030*"cash" + 0.019*"metamask" + 0.017*"—" + 0.016*"fork" + 0.014*"future" + 0.011*"value" + 0.011*"hard" + 0.009*"ethereum" + 0.007*"dapps"
+Topic: 5 ---- Words: 0.038*"ripple" + 0.035*"cryptocurrency" + 0.035*"xrp" + 0.032*"bitcoin" + 0.022*"altcoin" + 0.018*"btc" + 0.018*"analysis" + 0.016*"eth" + 0.015*"—" + 0.014*"eos"
+Topic: 6 ---- Words: 0.087*"contract" + 0.078*"smart" + 0.033*"ethereum" + 0.024*"metamask" + 0.024*"bitcoin" + 0.018*"solidity" + 0.015*"guide" + 0.007*"great" + 0.007*"blockchain" + 0.005*"wallet"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 8
+
+
+Topic: 0 ---- Words: 0.082*"bitcoin" + 0.024*"price" + 0.019*"ethereum" + 0.015*"scaling" + 0.014*"—" + 0.012*"make" + 0.011*"update" + 0.010*"cryptocurrency" + 0.010*"great" + 0.009*"way"
+Topic: 1 ---- Words: 0.123*"bitcoin" + 0.015*"ethereum" + 0.012*"—" + 0.011*"v" + 0.010*"better" + 0.009*"bitcoinreal" + 0.008*"future" + 0.008*"different" + 0.007*"free" + 0.007*"case"
+Topic: 2 ---- Words: 0.056*"bitcoin" + 0.041*"blockchain" + 0.029*"ethereum" + 0.024*"ripple" + 0.022*"bitcoin’s" + 0.021*"—" + 0.011*"xrp" + 0.009*"don’t" + 0.009*"change" + 0.008*"2018"
+Topic: 3 ---- Words: 0.111*"bitcoin" + 0.027*"part" + 0.024*"cash" + 0.024*"1" + 0.019*"mining" + 0.017*"ethereum" + 0.017*"guide" + 0.014*"—" + 0.011*"network" + 0.010*"trading"
+Topic: 4 ---- Words: 0.060*"contract" + 0.055*"metamask" + 0.054*"smart" + 0.045*"ethereum" + 0.024*"token" + 0.022*"solidity" + 0.022*"wallet" + 0.022*"—" + 0.009*"guide" + 0.008*"using"
+Topic: 5 ---- Words: 0.028*"part" + 0.026*"bitcoin" + 0.025*"ethereum" + 0.025*"contract" + 0.023*"smart" + 0.019*"development" + 0.017*"blockchain" + 0.015*"—" + 0.013*"2" + 0.012*"developer"
+Topic: 6 ---- Words: 0.064*"blockchain" + 0.045*"bitcoin" + 0.032*"ethereum" + 0.012*"game" + 0.011*"bubble" + 0.011*"—" + 0.010*"introducing" + 0.009*"technology" + 0.007*"building" + 0.007*"transaction"
+Topic: 7 ---- Words: 0.044*"bitcoin" + 0.026*"need" + 0.025*"cryptocurrency" + 0.023*"xrp" + 0.021*"btc" + 0.021*"altcoin" + 0.020*"analysis" + 0.019*"know" + 0.018*"eth" + 0.016*"eos"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 9
+
+
+Topic: 0 ---- Words: 0.093*"bitcoin" + 0.031*"cash" + 0.019*"guide" + 0.018*"network" + 0.016*"ethereum" + 0.016*"v" + 0.014*"—" + 0.014*"4" + 0.013*"scaling" + 0.013*"bitcoinreal"
+Topic: 1 ---- Words: 0.049*"bitcoin" + 0.034*"cryptocurrency" + 0.025*"altcoin" + 0.024*"xrp" + 0.023*"ethereum" + 0.021*"analysis" + 0.021*"btc" + 0.020*"need" + 0.020*"know" + 0.018*"eth"
+Topic: 2 ---- Words: 0.105*"bitcoin" + 0.040*"ripple" + 0.028*"—" + 0.022*"future" + 0.019*"ethereum" + 0.015*"xrp" + 0.012*"market" + 0.010*"price" + 0.009*"trading" + 0.009*"world"
+Topic: 3 ---- Words: 0.072*"contract" + 0.065*"smart" + 0.050*"bitcoin" + 0.037*"ethereum" + 0.031*"part" + 0.022*"blockchain" + 0.018*"—" + 0.017*"1" + 0.013*"solidity" + 0.009*"2"
+Topic: 4 ---- Words: 0.072*"bitcoin" + 0.021*"fork" + 0.020*"ethereum" + 0.020*"mining" + 0.017*"—" + 0.016*"update" + 0.014*"remix" + 0.012*"hard" + 0.009*"stop" + 0.009*"price"
+Topic: 5 ---- Words: 0.105*"metamask" + 0.035*"wallet" + 0.032*"ethereum" + 0.017*"blockchain" + 0.016*"—" + 0.013*"guide" + 0.012*"better" + 0.012*"bubble" + 0.011*"use" + 0.009*"add"
+Topic: 6 ---- Words: 0.059*"blockchain" + 0.052*"bitcoin" + 0.012*"—" + 0.011*"cryptocurrencies" + 0.009*"protocol" + 0.007*"technology" + 0.007*"top" + 0.006*"company" + 0.006*"economy" + 0.006*"ethereum"
+Topic: 7 ---- Words: 0.055*"token" + 0.038*"ethereum" + 0.028*"bitcoin" + 0.019*"using" + 0.016*"solidity" + 0.015*"metamask" + 0.011*"new" + 0.010*"payment" + 0.009*"create" + 0.009*"building"
+Topic: 8 ---- Words: 0.064*"bitcoin" + 0.028*"ethereum" + 0.025*"bitcoin’s" + 0.019*"blockchain" + 0.016*"—" + 0.014*"value" + 0.010*"work" + 0.009*"data" + 0.009*"game" + 0.008*"privacy"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 10
+
+
+Topic: 0 ---- Words: 0.107*"bitcoin" + 0.052*"ethereum" + 0.019*"—" + 0.017*"network" + 0.012*"blockchain" + 0.011*"part" + 0.011*"lightning" + 0.010*"v" + 0.010*"guide" + 0.008*"crypto"
+Topic: 1 ---- Words: 0.097*"bitcoin" + 0.033*"blockchain" + 0.030*"cash" + 0.015*"future" + 0.015*"ethereum" + 0.010*"new" + 0.010*"technology" + 0.010*"use" + 0.010*"like" + 0.009*"game"
+Topic: 2 ---- Words: 0.121*"contract" + 0.109*"smart" + 0.054*"ethereum" + 0.021*"solidity" + 0.015*"bitcoin" + 0.011*"—" + 0.009*"first" + 0.009*"tutorial" + 0.009*"audit" + 0.009*"guide"
+Topic: 3 ---- Words: 0.046*"ripple" + 0.040*"wallet" + 0.032*"—" + 0.031*"solidity" + 0.030*"xrp" + 0.025*"metamask" + 0.023*"ethereum" + 0.015*"blockchain" + 0.012*"news" + 0.012*"create"
+Topic: 4 ---- Words: 0.089*"bitcoin" + 0.028*"blockchain" + 0.025*"bitcoin’s" + 0.021*"1" + 0.021*"part" + 0.019*"mining" + 0.015*"update" + 0.015*"—" + 0.008*"ethereum" + 0.008*"segwit2x"
+Topic: 5 ---- Words: 0.080*"metamask" + 0.052*"token" + 0.013*"using" + 0.011*"blockchain" + 0.011*"ico" + 0.011*"add" + 0.011*"top" + 0.011*"bitcoin" + 0.010*"different" + 0.010*"use"
+Topic: 6 ---- Words: 0.038*"bitcoin" + 0.023*"ethereum" + 0.016*"—" + 0.015*"better" + 0.013*"blockchain" + 0.010*"插件，metamask" + 0.010*"4" + 0.009*"energy" + 0.009*"first" + 0.009*"safe"
+Topic: 7 ---- Words: 0.112*"bitcoin" + 0.022*"need" + 0.022*"know" + 0.021*"metamask" + 0.019*"price" + 0.014*"guide" + 0.011*"ethereum" + 0.010*"gold" + 0.010*"blockchain" + 0.009*"make"
+Topic: 8 ---- Words: 0.050*"cryptocurrency" + 0.029*"btc" + 0.029*"analysis" + 0.027*"fork" + 0.026*"eth" + 0.024*"altcoin" + 0.023*"eos" + 0.023*"review" + 0.023*"xrp" + 0.021*"ltc"
+Topic: 9 ---- Words: 0.042*"—" + 0.038*"bitcoin" + 0.023*"blockchain" + 0.022*"ethereum" + 0.018*"part" + 0.012*"bubble" + 0.011*"protocol" + 0.010*"2" + 0.010*"metamask" + 0.009*"developer"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 11
+
+
+Topic: 0 ---- Words: 0.060*"part" + 0.047*"1" + 0.044*"ethereum" + 0.031*"blockchain" + 0.029*"development" + 0.024*"bitcoin" + 0.019*"—" + 0.017*"guide" + 0.016*"introduction" + 0.015*"building"
+Topic: 1 ---- Words: 0.058*"bitcoin" + 0.041*"blockchain" + 0.026*"use" + 0.020*"ethereum" + 0.019*"need" + 0.018*"—" + 0.018*"know" + 0.015*"metamask" + 0.013*"ripple" + 0.013*"update"
+Topic: 2 ---- Words: 0.091*"bitcoin" + 0.050*"ethereum" + 0.019*"solidity" + 0.017*"metamask" + 0.013*"2" + 0.012*"getting" + 0.009*"don’t" + 0.009*"started" + 0.009*"developer" + 0.009*"truffle"
+Topic: 3 ---- Words: 0.053*"bitcoin" + 0.034*"ethereum" + 0.029*"network" + 0.029*"solidity" + 0.020*"lightning" + 0.019*"v" + 0.015*"—" + 0.014*"blockchain" + 0.013*"tutorial" + 0.012*"20"
+Topic: 4 ---- Words: 0.038*"token" + 0.033*"metamask" + 0.025*"ethereum" + 0.013*"bitcoin" + 0.013*"add" + 0.011*"theory" + 0.011*"payment" + 0.011*"set" + 0.008*"understanding" + 0.008*"remix"
+Topic: 5 ---- Words: 0.068*"bitcoin" + 0.025*"bitcoin’s" + 0.024*"fork" + 0.020*"case" + 0.019*"ethereum" + 0.015*"4" + 0.015*"hard" + 0.014*"gold" + 0.014*"blockchain" + 0.014*"market"
+Topic: 6 ---- Words: 0.072*"bitcoin" + 0.033*"cryptocurrency" + 0.032*"xrp" + 0.025*"altcoin" + 0.021*"btc" + 0.020*"mining" + 0.020*"analysis" + 0.017*"eth" + 0.017*"eos" + 0.016*"review"
+Topic: 7 ---- Words: 0.083*"bitcoin" + 0.041*"—" + 0.023*"blockchain" + 0.020*"future" + 0.013*"ripple" + 0.012*"metamask" + 0.011*"better" + 0.010*"stop" + 0.010*"big" + 0.009*"store"
+Topic: 8 ---- Words: 0.070*"bitcoin" + 0.035*"ethereum" + 0.030*"—" + 0.029*"wallet" + 0.028*"cash" + 0.014*"solidity" + 0.012*"scaling" + 0.011*"great" + 0.011*"mining" + 0.011*"metamask"
+Topic: 9 ---- Words: 0.086*"bitcoin" + 0.029*"trading" + 0.016*"bubble" + 0.015*"blockchain" + 0.014*"report" + 0.012*"bitcoins" + 0.011*"three" + 0.011*"ethereum" + 0.010*"two" + 0.010*"make"
+Topic: 10 ---- Words: 0.142*"contract" + 0.128*"smart" + 0.043*"metamask" + 0.019*"ethereum" + 0.017*"guide" + 0.011*"security" + 0.010*"audit" + 0.010*"token" + 0.009*"blockchain" + 0.007*"testing"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 12
+
+
+Topic: 0 ---- Words: 0.043*"bitcoin" + 0.039*"blockchain" + 0.035*"ethereum" + 0.019*"future" + 0.017*"use" + 0.014*"crypto" + 0.012*"—" + 0.012*"20" + 0.010*"first" + 0.010*"trader"
+Topic: 1 ---- Words: 0.061*"cash" + 0.026*"ethereum" + 0.021*"new" + 0.017*"work" + 0.015*"know" + 0.015*"developer" + 0.015*"need" + 0.010*"—" + 0.010*"solidity" + 0.010*"everything"
+Topic: 2 ---- Words: 0.090*"bitcoin" + 0.023*"value" + 0.020*"price" + 0.018*"make" + 0.015*"—" + 0.015*"bubble" + 0.015*"getting" + 0.014*"2018" + 0.013*"ripple" + 0.012*"started"
+Topic: 3 ---- Words: 0.063*"bitcoin" + 0.021*"solidity" + 0.017*"report" + 0.015*"right" + 0.014*"thing" + 0.013*"game" + 0.012*"metamask" + 0.012*"good" + 0.011*"bear" + 0.011*"ethereum’s"
+Topic: 4 ---- Words: 0.101*"blockchain" + 0.019*"technology" + 0.013*"open" + 0.011*"introduction" + 0.010*"letter" + 0.010*"new" + 0.010*"cryptocurrencies" + 0.009*"energy" + 0.008*"ecosystem" + 0.007*"big"
+Topic: 5 ---- Words: 0.087*"part" + 0.055*"1" + 0.042*"ethereum" + 0.033*"—" + 0.029*"2" + 0.028*"update" + 0.019*"4" + 0.015*"3" + 0.011*"market" + 0.010*"development"
+Topic: 6 ---- Words: 0.042*"bitcoin" + 0.031*"ethereum" + 0.023*"—" + 0.018*"scaling" + 0.015*"time" + 0.015*"change" + 0.013*"could" + 0.012*"what’s" + 0.011*"great" + 0.011*"community"
+Topic: 7 ---- Words: 0.087*"contract" + 0.082*"smart" + 0.039*"blockchain" + 0.016*"don’t" + 0.010*"development" + 0.009*"coin" + 0.009*"privacy" + 0.009*"neo" + 0.008*"test" + 0.008*"company"
+Topic: 8 ---- Words: 0.045*"—" + 0.044*"xrp" + 0.044*"ripple" + 0.027*"altcoin" + 0.027*"cryptocurrency" + 0.024*"analysis" + 0.023*"btc" + 0.022*"metamask" + 0.020*"eth" + 0.018*"eos"
+Topic: 9 ---- Words: 0.250*"bitcoin" + 0.024*"ethereum" + 0.019*"mining" + 0.015*"network" + 0.013*"bitcoinreal" + 0.013*"v" + 0.012*"fork" + 0.011*"gold" + 0.011*"future" + 0.010*"lightning"
+Topic: 10 ---- Words: 0.109*"metamask" + 0.059*"wallet" + 0.038*"token" + 0.030*"solidity" + 0.028*"using" + 0.018*"ethereum" + 0.015*"erc20" + 0.014*"truffle" + 0.013*"—" + 0.012*"build"
+Topic: 11 ---- Words: 0.082*"ethereum" + 0.054*"contract" + 0.045*"smart" + 0.033*"bitcoin’s" + 0.031*"guide" + 0.016*"metamask" + 0.013*"way" + 0.013*"solidity" + 0.010*"security" + 0.009*"create"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 13
+
+
+Topic: 0 ---- Words: 0.047*"solidity" + 0.025*"metamask" + 0.021*"blockchain" + 0.018*"ethereum" + 0.018*"—" + 0.016*"update" + 0.016*"new" + 0.014*"truffle" + 0.012*"community" + 0.011*"coin"
+Topic: 1 ---- Words: 0.166*"bitcoin" + 0.026*"—" + 0.023*"bitcoinreal" + 0.021*"v" + 0.019*"gold" + 0.014*"ripple" + 0.013*"better" + 0.011*"update" + 0.010*"segwit2x" + 0.010*"currency"
+Topic: 2 ---- Words: 0.064*"bitcoin" + 0.059*"cash" + 0.024*"ethereum" + 0.021*"development" + 0.018*"report" + 0.014*"theory" + 0.012*"good" + 0.012*"part" + 0.011*"digital" + 0.010*"future"
+Topic: 3 ---- Words: 0.171*"contract" + 0.154*"smart" + 0.019*"solidity" + 0.016*"blockchain" + 0.011*"right" + 0.010*"audit" + 0.010*"trader" + 0.009*"guide" + 0.008*"platform" + 0.007*"test"
+Topic: 4 ---- Words: 0.062*"ripple" + 0.042*"xrp" + 0.031*"—" + 0.029*"blockchain" + 0.017*"news" + 0.015*"altcoin" + 0.011*"think" + 0.009*"financial" + 0.008*"new" + 0.008*"decentralized"
+Topic: 5 ---- Words: 0.073*"bitcoin" + 0.035*"fork" + 0.023*"blockchain" + 0.020*"hard" + 0.018*"metamask" + 0.017*"get" + 0.012*"many" + 0.011*"going" + 0.011*"block" + 0.011*"face"
+Topic: 6 ---- Words: 0.041*"cryptocurrency" + 0.039*"need" + 0.035*"btc" + 0.035*"analysis" + 0.034*"know" + 0.031*"eth" + 0.028*"altcoin" + 0.028*"eos" + 0.027*"xrp" + 0.027*"review"
+Topic: 7 ---- Words: 0.067*"bitcoin" + 0.065*"part" + 0.046*"1" + 0.033*"—" + 0.026*"2" + 0.018*"ethereum" + 0.018*"blockchain" + 0.016*"4" + 0.015*"getting" + 0.012*"don’t"
+Topic: 8 ---- Words: 0.052*"bitcoin" + 0.043*"blockchain" + 0.023*"—" + 0.022*"guide" + 0.016*"build" + 0.015*"use" + 0.014*"case" + 0.013*"node" + 0.012*"simple" + 0.012*"solidity"
+Topic: 9 ---- Words: 0.089*"bitcoin" + 0.034*"ethereum" + 0.022*"future" + 0.022*"price" + 0.016*"make" + 0.015*"bubble" + 0.015*"like" + 0.014*"way" + 0.014*"blockchain" + 0.011*"bitcoins"
+Topic: 10 ---- Words: 0.088*"metamask" + 0.048*"bitcoin" + 0.044*"token" + 0.043*"wallet" + 0.043*"ethereum" + 0.014*"price" + 0.011*"use" + 0.011*"create" + 0.010*"add" + 0.009*"erc20"
+Topic: 11 ---- Words: 0.137*"ethereum" + 0.052*"bitcoin" + 0.019*"trading" + 0.015*"—" + 0.014*"guide" + 0.013*"cryptocurrencies" + 0.011*"dapp" + 0.010*"crypto" + 0.010*"different" + 0.010*"blockchain"
+Topic: 12 ---- Words: 0.079*"bitcoin" + 0.033*"network" + 0.032*"mining" + 0.031*"bitcoin’s" + 0.023*"—" + 0.019*"3" + 0.018*"lightning" + 0.016*"security" + 0.016*"scaling" + 0.014*"thing"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 14
+
+
+Topic: 0 ---- Words: 0.191*"bitcoin" + 0.018*"ethereum" + 0.012*"thing" + 0.012*"different" + 0.011*"use" + 0.011*"report" + 0.010*"time" + 0.010*"minute" + 0.009*"5" + 0.008*"hard"
+Topic: 1 ---- Words: 0.026*"ethereum" + 0.024*"three" + 0.023*"digital" + 0.019*"update" + 0.019*"transaction" + 0.016*"dominance" + 0.014*"good" + 0.014*"quantum" + 0.012*"ether" + 0.011*"i"
+Topic: 2 ---- Words: 0.077*"part" + 0.057*"—" + 0.045*"1" + 0.035*"bitcoin" + 0.028*"ethereum" + 0.028*"2" + 0.018*"development" + 0.017*"4" + 0.015*"blockchain" + 0.011*"3"
+Topic: 3 ---- Words: 0.100*"bitcoin" + 0.045*"cash" + 0.032*"—" + 0.017*"remix" + 0.016*"bubble" + 0.014*"stop" + 0.013*"currency" + 0.012*"right" + 0.010*"simple" + 0.009*"and"
+Topic: 4 ---- Words: 0.168*"blockchain" + 0.020*"bitcoin" + 0.016*"future" + 0.012*"technology" + 0.009*"new" + 0.008*"company" + 0.007*"taking" + 0.007*"every" + 0.007*"profit" + 0.007*"big"
+Topic: 5 ---- Words: 0.063*"bitcoin’s" + 0.033*"value" + 0.025*"market" + 0.019*"blockchain" + 0.019*"open" + 0.018*"store" + 0.017*"—" + 0.015*"letter" + 0.015*"network" + 0.009*"brilliance"
+Topic: 6 ---- Words: 0.135*"metamask" + 0.045*"wallet" + 0.036*"bitcoin" + 0.033*"token" + 0.024*"ethereum" + 0.019*"using" + 0.016*"guide" + 0.016*"don’t" + 0.013*"use" + 0.012*"better"
+Topic: 7 ---- Words: 0.051*"bitcoin" + 0.041*"case" + 0.028*"ethereum" + 0.026*"getting" + 0.024*"started" + 0.016*"bullish" + 0.015*"face" + 0.015*"still" + 0.015*"bear" + 0.013*"consumption"
+Topic: 8 ---- Words: 0.159*"contract" + 0.143*"smart" + 0.044*"solidity" + 0.035*"ethereum" + 0.012*"audit" + 0.011*"—" + 0.010*"ico" + 0.010*"first" + 0.010*"security" + 0.009*"bank"
+Topic: 9 ---- Words: 0.160*"bitcoin" + 0.034*"mining" + 0.027*"ethereum" + 0.027*"know" + 0.025*"need" + 0.024*"bitcoinreal" + 0.020*"cryptocurrencies" + 0.020*"gold" + 0.019*"v" + 0.016*"fork"
+Topic: 10 ---- Words: 0.060*"xrp" + 0.052*"ripple" + 0.041*"cryptocurrency" + 0.037*"altcoin" + 0.032*"btc" + 0.028*"eth" + 0.027*"analysis" + 0.025*"—" + 0.025*"eos" + 0.024*"review"
+Topic: 11 ---- Words: 0.053*"bitcoin" + 0.039*"price" + 0.037*"ethereum" + 0.024*"way" + 0.015*"two" + 0.015*"bitcoins" + 0.014*"7" + 0.011*"2017" + 0.010*"2018" + 0.010*"solidity"
+Topic: 12 ---- Words: 0.110*"ethereum" + 0.020*"building" + 0.020*"dapp" + 0.017*"—" + 0.015*"developer" + 0.013*"tutorial" + 0.013*"trader" + 0.013*"node" + 0.012*"first" + 0.011*"solidity"
+Topic: 13 ---- Words: 0.091*"bitcoin" + 0.033*"—" + 0.028*"network" + 0.028*"ethereum" + 0.026*"future" + 0.021*"lightning" + 0.018*"trading" + 0.014*"scaling" + 0.013*"crypto" + 0.012*"make"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 15
+
+
+Topic: 0 ---- Words: 0.066*"bitcoin" + 0.059*"ethereum" + 0.032*"—" + 0.029*"blockchain" + 0.019*"scaling" + 0.016*"great" + 0.015*"introduction" + 0.014*"security" + 0.013*"dapp" + 0.013*"new"
+Topic: 1 ---- Words: 0.191*"contract" + 0.172*"smart" + 0.046*"ethereum" + 0.029*"solidity" + 0.023*"update" + 0.014*"segwit2x" + 0.012*"right" + 0.011*"community" + 0.010*"deploy" + 0.009*"security"
+Topic: 2 ---- Words: 0.076*"bitcoin" + 0.068*"ethereum" + 0.038*"network" + 0.022*"lightning" + 0.020*"world" + 0.019*"blockchain" + 0.016*"game" + 0.015*"20" + 0.013*"private" + 0.013*"time"
+Topic: 3 ---- Words: 0.097*"ripple" + 0.048*"xrp" + 0.027*"bitcoin" + 0.027*"—" + 0.021*"crypto" + 0.019*"news" + 0.017*"tutorial" + 0.017*"add" + 0.017*"altcoin" + 0.016*"build"
+Topic: 4 ---- Words: 0.122*"bitcoin" + 0.066*"future" + 0.062*"cash" + 0.023*"blockchain" + 0.020*"digital" + 0.017*"make" + 0.012*"good" + 0.010*"transfer" + 0.010*"rise" + 0.009*"computer"
+Topic: 5 ---- Words: 0.091*"bitcoin" + 0.028*"blockchain" + 0.016*"—" + 0.015*"building" + 0.015*"cryptocurrencies" + 0.015*"thing" + 0.014*"don’t" + 0.014*"stop" + 0.013*"data" + 0.013*"get"
+Topic: 6 ---- Words: 0.057*"bitcoin’s" + 0.052*"cryptocurrency" + 0.036*"btc" + 0.033*"analysis" + 0.032*"eth" + 0.029*"eos" + 0.029*"altcoin" + 0.028*"review" + 0.027*"ethereum" + 0.027*"xrp"
+Topic: 7 ---- Words: 0.226*"bitcoin" + 0.041*"ethereum" + 0.033*"mining" + 0.032*"guide" + 0.023*"bitcoinreal" + 0.021*"v" + 0.021*"price" + 0.019*"gold" + 0.014*"coinbase" + 0.014*"trading"
+Topic: 8 ---- Words: 0.071*"bitcoin" + 0.031*"blockchain" + 0.028*"use" + 0.022*"bubble" + 0.020*"case" + 0.018*"three" + 0.012*"atm" + 0.012*"bear" + 0.012*"dominance" + 0.012*"statement"
+Topic: 9 ---- Words: 0.051*"bitcoin" + 0.027*"like" + 0.021*"blockchain" + 0.017*"block" + 0.016*"best" + 0.013*"extracredit" + 0.011*"solidity" + 0.011*"fall" + 0.011*"ethereum" + 0.010*"talk"
+Topic: 10 ---- Words: 0.070*"know" + 0.067*"need" + 0.038*"market" + 0.025*"ethereum" + 0.018*"ethereum’s" + 0.017*"ico" + 0.015*"everything" + 0.013*"mew" + 0.013*"user" + 0.012*"business"
+Topic: 11 ---- Words: 0.090*"blockchain" + 0.020*"change" + 0.017*"technology" + 0.013*"testing" + 0.013*"open" + 0.011*"using" + 0.011*"ecosystem" + 0.008*"privacy" + 0.008*"application" + 0.008*"solve"
+Topic: 12 ---- Words: 0.042*"new" + 0.031*"blockchain" + 0.024*"—" + 0.020*"report" + 0.020*"audit" + 0.015*"2018" + 0.013*"face" + 0.012*"trade" + 0.012*"platform" + 0.011*"fee"
+Topic: 13 ---- Words: 0.184*"metamask" + 0.065*"token" + 0.062*"wallet" + 0.028*"using" + 0.021*"ethereum" + 0.015*"value" + 0.015*"—" + 0.015*"store" + 0.015*"guide" + 0.014*"create"
+Topic: 14 ---- Words: 0.071*"part" + 0.067*"bitcoin" + 0.063*"—" + 0.042*"1" + 0.026*"ethereum" + 0.026*"2" + 0.019*"fork" + 0.018*"3" + 0.017*"development" + 0.016*"4"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

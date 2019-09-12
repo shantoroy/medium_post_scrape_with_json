@@ -1,0 +1,10 @@
+Number of total post for  ethereum is = 482
+Number of total post for  blockchain is = 463
+Number of total post for  smart contract is = 221
+Number of total post for  solidity is = 395
+Number of total post for  vyper is = 27
+Number of total post for  ripple is = 230
+Number of total post for  remix is = 83
+Number of total post for  metamask is = 195
+Number of total post for  bitcoin is = 534
+The number of total post is:  2630

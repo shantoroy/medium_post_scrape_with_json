@@ -8,8 +8,8 @@ import string
 import gensim
 from gensim import corpora
 
-df = pd.read_json('ethereum.json')
-QATags = df.content
+df = pd.read_json('final_all_post_data.json')
+QATags = df.title   # contents analysis using the title
 # print(QATags)
 QATags = list(QATags)
 # print(QATags[:10])
@@ -39,7 +39,7 @@ doc_term_matrix = [dictionary.doc2bow(doc) for doc in Text_clean]
 Lda = gensim.models.ldamodel.LdaModel
 
 # Running and Trainign LDA model on the document term matrix.
-f = open("ethereum.txt", "w+")
+f = open("all_post_title_analysis.txt", "w+")
 for x in range(5,16):
     ldamodel = Lda(doc_term_matrix, num_topics=x, id2word = dictionary, passes=100, iterations=15000)
     f.write(f"\n\nNo of Topics : {x}\n\n")
