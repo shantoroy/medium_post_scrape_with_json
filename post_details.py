@@ -14,11 +14,11 @@ class PostDetais(object):
             for my_tag in self.page_soup.find_all('script', {
                                             'type': "application/ld+json"}):
                 res = my_tag.text
-                return res
+            return res
         except Exception as e:
             error_trace = {}
             error_trace["link"] = self.link
-            error_trace["method"] = "get_response"
+            error_trace["method"] = "get_response_basic"
             error_trace["message"] = str(e)
             print(json.dumps(error_trace, indent=4))
         return ""
@@ -39,7 +39,7 @@ class PostDetais(object):
         except Exception as e:
             error_trace = {}
             error_trace["link"] = self.link
-            error_trace["method"] = "get_response"
+            error_trace["method"] = "get_response_whole"
             error_trace["message"] = str(e)
             print(json.dumps(error_trace, indent=4))
         return ""
@@ -48,10 +48,18 @@ class PostDetais(object):
     # we're using regex as post number will be different for each post
     # we know that the post key starts with "Post:"
     def find_first_key(self, json_data):
-        find_key_string = [re.compile("^Post:*").match]
-        required_key = [k for k, v in json_data.items()
-                        if any(item(k) for item in find_key_string)]
-        return required_key[0]
+        try:
+            find_key_string = [re.compile("^Post:*").match]
+            required_key = [k for k, v in json_data.items()
+                            if any(item(k) for item in find_key_string)]
+            return required_key[0]
+        except Exception as e:
+            error_trace = {}
+            error_trace["link"] = self.link
+            error_trace["method"] = "get_first_key"
+            error_trace["message"] = str(e)
+            print(json.dumps(error_trace, indent=4))
+        return ""
 
     # return post title using h1 tag
     # it could be collected from the basic json response as well
@@ -77,7 +85,7 @@ class PostDetais(object):
         except Exception as e:
             error_trace = {}
             error_trace["link"] = self.link
-            error_trace["method"] = "get_title"
+            error_trace["method"] = "get_author_name"
             error_trace["message"] = str(e)
             print(json.dumps(error_trace, indent=4))
         return ""
@@ -92,7 +100,7 @@ class PostDetais(object):
         except Exception as e:
             error_trace = {}
             error_trace["link"] = self.link
-            error_trace["method"] = "get_title"
+            error_trace["method"] = "get_date"
             error_trace["message"] = str(e)
             print(json.dumps(error_trace, indent=4))
         return ""
@@ -119,7 +127,7 @@ class PostDetais(object):
         except Exception as e:
             error_trace = {}
             error_trace["link"] = self.link
-            error_trace["method"] = "get_title"
+            error_trace["method"] = "get_read"
             error_trace["message"] = str(e)
             print(json.dumps(error_trace, indent=4))
         return ""

@@ -13,7 +13,7 @@ class MediumScrapper(object):
         content = self.get_intial_content()
         self.parsed_data = BeautifulSoup(content, 'lxml')
 
-    def get_intial_content(self, base_url = "https://medium.com/search?q="):
+    def get_intial_content(self, base_url="https://medium.com/search?q="):
         base_url = base_url + self.tag
         driver = webdriver.Chrome(self.CHROME_DRIVER_PATH)
         driver.get(base_url)
@@ -21,10 +21,10 @@ class MediumScrapper(object):
         while scrolls > 0:
             driver.execute_script(
                 "window.scrollTo(0, document.body.scrollHeight-1000);")
-            time.sleep(10)
+            time.sleep(2)
             scrolls -= 1
         # driver.implicitly_wait(30)
-        time.sleep(10)
+        time.sleep(1.5)
         content = driver.execute_script(
             "return document.documentElement.outerHTML")
         driver.quit()
@@ -44,10 +44,12 @@ class MediumScrapper(object):
         headers.update({
             'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0',
         })
+        count = 0
         for link in links:
             try:
-                # print("Scrapping link: {}".format(link))
-                time.sleep(10)
+                count += 1
+                print("Scrapping link {}: {}".format(count, link))
+                time.sleep(1)
                 request_link = requests.get(link, headers=headers)
                 request_content = BeautifulSoup(request_link.content,
                                                 'html.parser')

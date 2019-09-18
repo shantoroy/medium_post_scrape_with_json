@@ -8,7 +8,7 @@ import string
 import gensim
 from gensim import corpora
 
-df = pd.read_json('final_all_post_data.json')
+df = pd.read_json('final_data_removing_duplicacy.json')
 QATags = df.title   # contents analysis using the title
 # print(QATags)
 QATags = list(QATags)
@@ -17,6 +17,7 @@ QATags = list(QATags)
 stop = set(stopwords.words('english'))
 exclude = set(string.punctuation)
 lemma = WordNetLemmatizer()
+port = PorterStemmer()
 
 def clean(doc):
     stop_free = " ".join([i for i in doc.lower().split() if i not in stop])
@@ -24,7 +25,9 @@ def clean(doc):
     punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
     # print(punc_free)
     normalized = " ".join(lemma.lemmatize(word) for word in punc_free.split())
-    return normalized
+    stem = " ".join(port.stem(word) for word in normalized.split())
+    remove_non_english = stem.encode("ascii", errors="ignore").decode()
+    return remove_non_english
 
 Text_clean = [clean(doc).split() for doc in QATags]
 

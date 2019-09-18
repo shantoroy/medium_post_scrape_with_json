@@ -7,11 +7,8 @@ except FileNotFoundError as fx:
 
 
 if __name__ == '__main__':
-    file_name_list = ["ethereum.json", "blockchain.json", "smart-contract.json",
-                      "solidity.json", "vyper.json", "ripple.json",
-                      "remix.json", "metamask.json", "bitcoin.json"]
-    tag_list = ["ethereum", "blockchain", "smart contract", "solidity", "vyper", "ripple",
-                "remix", "metamask", "bitcoin"]
+    file_name_list = ["ether.json", "truffle.json", "web3.json", "etherscan.json"]
+    tag_list = ["ether", "truffle", "web3", "etherscan"]
 
     for file_name, tag in zip(file_name_list, tag_list):
         scrapper = MediumScrapper(tag, CHROME_DRIVER_PATH=CHROME_DRIVER_PATH)

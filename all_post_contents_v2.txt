@@ -1,0 +1,155 @@
+
+
+No of Topics : 5
+
+
+Topic: 0 ---- Words: 0.016*"ethereum" + 0.009*"blockchain" + 0.008*"contract" + 0.007*"transact" + 0.006*"smart" + 0.006*"use" + 0.006*"develop" + 0.005*"network" + 0.005*"like" + 0.005*"one"
+Topic: 1 ---- Words: 0.016*"function" + 0.008*"return" + 0.007*"public" + 0.007*"contract" + 0.006*"use" + 0.006*"uint256" + 0.005*"uint" + 0.005*"solid" + 0.005*"address" + 0.005*"valu"
+Topic: 2 ---- Words: 0.005*"vbuterin" + 0.003*"yanislav" + 0.003*"testval" + 0.002*"auction" + 0.002*"audit" + 0.001*"coloni" + 0.001*"organis" + 0.001*"fleta" + 0.001*"stellar" + 0.001*"bid"
+Topic: 3 ---- Words: 0.028*"contract" + 0.014*"use" + 0.010*"function" + 0.009*"token" + 0.009*"smart" + 0.007*"address" + 0.007*"ethereum" + 0.006*"code" + 0.006*"metamask" + 0.006*"account"
+Topic: 4 ---- Words: 0.023*"de" + 0.014*"la" + 0.010*"que" + 0.009*"en" + 0.006*"e" + 0.006*"el" + 0.006*"un" + 0.005*"lo" + 0.005*"bir" + 0.004*"para"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 6
+
+
+Topic: 0 ---- Words: 0.014*"remix" + 0.005*"de" + 0.003*"da" + 0.003*"e" + 0.003*"du" + 0.003*"music" + 0.002*"und" + 0.002*"transit" + 0.002*"die" + 0.002*"metamask"
+Topic: 1 ---- Words: 0.007*"bir" + 0.006*"neo" + 0.005*"vbuterin" + 0.005*"visual" + 0.005*"studio" + 0.004*"bu" + 0.004*"yanislav" + 0.003*"token" + 0.003*"dai" + 0.002*"bancor"
+Topic: 2 ---- Words: 0.026*"contract" + 0.018*"function" + 0.011*"use" + 0.008*"token" + 0.008*"call" + 0.008*"address" + 0.007*"return" + 0.006*"code" + 0.006*"valu" + 0.006*"transact"
+Topic: 3 ---- Words: 0.017*"ethereum" + 0.010*"blockchain" + 0.007*"transact" + 0.006*"use" + 0.006*"contract" + 0.006*"develop" + 0.006*"token" + 0.006*"network" + 0.005*"smart" + 0.005*"user"
+Topic: 4 ---- Words: 0.026*"contract" + 0.015*"use" + 0.013*"smart" + 0.009*"metamask" + 0.009*"ethereum" + 0.007*"account" + 0.007*"code" + 0.006*"wallet" + 0.006*"creat" + 0.006*"test"
+Topic: 5 ---- Words: 0.017*"de" + 0.012*"la" + 0.008*"en" + 0.007*"que" + 0.005*"el" + 0.005*"key" + 0.005*"token" + 0.005*"un" + 0.005*"lo" + 0.004*"e"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 7
+
+
+Topic: 0 ---- Words: 0.003*"propos" + 0.003*"bir" + 0.003*"item" + 0.002*"likecoin" + 0.002*"vote" + 0.002*"seth" + 0.002*"bu" + 0.002*"iulia" + 0.001*"fundrais" + 0.001*"0x60"
+Topic: 1 ---- Words: 0.030*"de" + 0.019*"la" + 0.014*"que" + 0.012*"en" + 0.009*"el" + 0.008*"e" + 0.008*"un" + 0.007*"lo" + 0.006*"una" + 0.005*"para"
+Topic: 2 ---- Words: 0.032*"contract" + 0.019*"function" + 0.013*"use" + 0.009*"call" + 0.009*"code" + 0.009*"solid" + 0.007*"return" + 0.007*"address" + 0.006*"smart" + 0.006*"valu"
+Topic: 3 ---- Words: 0.022*"token" + 0.015*"metamask" + 0.014*"contract" + 0.013*"use" + 0.010*"wallet" + 0.009*"address" + 0.008*"account" + 0.007*"click" + 0.007*"creat" + 0.006*"ethereum"
+Topic: 4 ---- Words: 0.016*"ethereum" + 0.010*"blockchain" + 0.010*"contract" + 0.008*"smart" + 0.007*"transact" + 0.007*"use" + 0.006*"develop" + 0.005*"network" + 0.005*"like" + 0.005*"user"
+Topic: 5 ---- Words: 0.010*"remix" + 0.006*"dai" + 0.005*"vbuterin" + 0.004*"data" + 0.004*"ident" + 0.003*"yanislav" + 0.003*"transit" + 0.003*"1" + 0.002*"music" + 0.002*"int"
+Topic: 6 ---- Words: 0.009*"vyper" + 0.005*"bir" + 0.004*"auction" + 0.004*"key" + 0.003*"channel" + 0.003*"da" + 0.003*"bu" + 0.003*"du" + 0.002*"und" + 0.002*"delet"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 8
+
+
+Topic: 0 ---- Words: 0.018*"ethereum" + 0.012*"blockchain" + 0.008*"develop" + 0.008*"smart" + 0.007*"contract" + 0.007*"use" + 0.006*"network" + 0.005*"like" + 0.005*"token" + 0.005*"user"
+Topic: 1 ---- Words: 0.030*"metamask" + 0.020*"de" + 0.014*"click" + 0.013*"wallet" + 0.012*"la" + 0.009*"que" + 0.008*"en" + 0.006*"token" + 0.006*"e" + 0.006*"chrome"
+Topic: 2 ---- Words: 0.008*"bir" + 0.005*"bu" + 0.003*"arbitr" + 0.003*"int" + 0.003*"sort" + 0.003*"low" + 0.002*"iin" + 0.002*"high" + 0.002*"pivot" + 0.002*"da"
+Topic: 3 ---- Words: 0.005*"vote" + 0.004*"contract" + 0.004*"servic" + 0.004*"vbuterin" + 0.004*"escrow" + 0.003*"one" + 0.003*"buyer" + 0.003*"seller" + 0.003*"transit" + 0.003*"yanislav"
+Topic: 4 ---- Words: 0.031*"contract" + 0.014*"use" + 0.014*"function" + 0.010*"smart" + 0.008*"code" + 0.007*"address" + 0.007*"solid" + 0.007*"call" + 0.006*"ethereum" + 0.005*"return"
+Topic: 5 ---- Words: 0.035*"token" + 0.023*"contract" + 0.009*"function" + 0.007*"smart" + 0.007*"use" + 0.006*"address" + 0.006*"transfer" + 0.005*"test" + 0.005*"code" + 0.005*"erc20"
+Topic: 6 ---- Words: 0.008*"argument" + 0.007*"stack" + 0.006*"valu" + 0.004*"eth" + 0.004*"opcod" + 0.003*"uint" + 0.003*"f" + 0.003*"push" + 0.002*"topic" + 0.002*"posit"
+Topic: 7 ---- Words: 0.017*"transact" + 0.011*"ethereum" + 0.010*"block" + 0.008*"node" + 0.007*"use" + 0.005*"account" + 0.005*"user" + 0.005*"key" + 0.005*"network" + 0.005*"chain"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 9
+
+
+Topic: 0 ---- Words: 0.012*"ethereum" + 0.012*"blockchain" + 0.011*"develop" + 0.011*"smart" + 0.010*"contract" + 0.006*"use" + 0.005*"platform" + 0.005*"user" + 0.005*"secur" + 0.005*"work"
+Topic: 1 ---- Words: 0.023*"contract" + 0.015*"use" + 0.012*"token" + 0.012*"ethereum" + 0.012*"smart" + 0.010*"metamask" + 0.009*"wallet" + 0.008*"address" + 0.007*"account" + 0.007*"creat"
+Topic: 2 ---- Words: 0.031*"contract" + 0.019*"function" + 0.012*"use" + 0.009*"call" + 0.008*"code" + 0.008*"return" + 0.007*"solid" + 0.007*"address" + 0.006*"valu" + 0.006*"public"
+Topic: 3 ---- Words: 0.011*"token" + 0.006*"poll" + 0.006*"vote" + 0.005*"stack" + 0.005*"argument" + 0.004*"audit" + 0.004*"dividend" + 0.003*"list" + 0.003*"user" + 0.003*"posit"
+Topic: 4 ---- Words: 0.039*"de" + 0.024*"la" + 0.017*"que" + 0.016*"en" + 0.011*"el" + 0.010*"un" + 0.009*"lo" + 0.009*"e" + 0.008*"bir" + 0.007*"para"
+Topic: 5 ---- Words: 0.020*"ethereum" + 0.011*"transact" + 0.008*"blockchain" + 0.007*"bitcoin" + 0.006*"network" + 0.006*"it" + 0.005*"block" + 0.005*"like" + 0.005*"one" + 0.005*"node"
+Topic: 6 ---- Words: 0.005*"remix" + 0.004*"key" + 0.003*"f" + 0.003*"e" + 0.002*"min" + 0.002*"mani" + 0.002*"da" + 0.002*"p" + 0.002*"delet" + 0.002*"1"
+Topic: 7 ---- Words: 0.006*"user" + 0.005*"use" + 0.005*"remix" + 0.005*"data" + 0.004*"account" + 0.004*"creat" + 0.004*"new" + 0.003*"channel" + 0.003*"get" + 0.003*"visual"
+Topic: 8 ---- Words: 0.020*"token" + 0.007*"proxi" + 0.006*"erc721" + 0.006*"address" + 0.005*"key" + 0.004*"erc20" + 0.004*"kombucha" + 0.003*"standard" + 0.003*"index" + 0.003*"capac"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 10
+
+
+Topic: 0 ---- Words: 0.027*"contract" + 0.020*"function" + 0.015*"use" + 0.009*"solid" + 0.008*"call" + 0.008*"return" + 0.008*"code" + 0.008*"address" + 0.006*"valu" + 0.006*"test"
+Topic: 1 ---- Words: 0.011*"neo" + 0.009*"bir" + 0.005*"bu" + 0.005*"da" + 0.005*"cardano" + 0.004*"du" + 0.003*"und" + 0.003*"die" + 0.003*"iin" + 0.002*"auf"
+Topic: 2 ---- Words: 0.026*"contract" + 0.015*"smart" + 0.011*"token" + 0.010*"ethereum" + 0.009*"use" + 0.007*"blockchain" + 0.006*"user" + 0.006*"transact" + 0.006*"develop" + 0.005*"code"
+Topic: 3 ---- Words: 0.004*"nameserv" + 0.004*"paye" + 0.002*"dn" + 0.002*"ethdn" + 0.002*"tile" + 0.002*"mask" + 0.002*"board" + 0.002*"coverag" + 0.002*"domain" + 0.002*"pbl"
+Topic: 4 ---- Words: 0.039*"de" + 0.024*"la" + 0.017*"que" + 0.016*"en" + 0.011*"el" + 0.011*"e" + 0.010*"un" + 0.009*"lo" + 0.007*"una" + 0.007*"para"
+Topic: 5 ---- Words: 0.019*"ethereum" + 0.014*"blockchain" + 0.011*"develop" + 0.006*"use" + 0.006*"user" + 0.006*"network" + 0.005*"build" + 0.005*"dapp" + 0.005*"new" + 0.004*"work"
+Topic: 6 ---- Words: 0.019*"ethereum" + 0.011*"transact" + 0.009*"network" + 0.008*"blockchain" + 0.008*"block" + 0.007*"node" + 0.007*"bitcoin" + 0.006*"it" + 0.006*"like" + 0.005*"one"
+Topic: 7 ---- Words: 0.009*"token" + 0.007*"neo" + 0.007*"visual" + 0.006*"studio" + 0.006*"project" + 0.005*"transfer" + 0.004*"develop" + 0.004*"dividend" + 0.004*"auction" + 0.003*"vote"
+Topic: 8 ---- Words: 0.011*"remix" + 0.007*"byte" + 0.004*"1" + 0.004*"array" + 0.004*"store" + 0.003*"instruct" + 0.003*"messag" + 0.003*"b" + 0.003*"evm" + 0.003*"look"
+Topic: 9 ---- Words: 0.043*"metamask" + 0.026*"wallet" + 0.020*"click" + 0.019*"token" + 0.014*"account" + 0.014*"address" + 0.010*"use" + 0.008*"browser" + 0.007*"key" + 0.007*"privat"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 11
+
+
+Topic: 0 ---- Words: 0.058*"token" + 0.009*"erc20" + 0.009*"bir" + 0.005*"de" + 0.005*"standard" + 0.005*"bu" + 0.005*"erc721" + 0.004*"da" + 0.004*"e" + 0.003*"dividend"
+Topic: 1 ---- Words: 0.005*"return" + 0.004*"type" + 0.004*"b" + 0.003*"key" + 0.003*"bit" + 0.003*"a" + 0.003*"de" + 0.003*"simplic" + 0.003*"index" + 0.003*"take"
+Topic: 2 ---- Words: 0.011*"wallet" + 0.007*"ethereum" + 0.007*"user" + 0.006*"use" + 0.006*"data" + 0.005*"store" + 0.005*"account" + 0.005*"key" + 0.004*"privat" + 0.004*"need"
+Topic: 3 ---- Words: 0.020*"metamask" + 0.015*"transact" + 0.013*"wallet" + 0.011*"use" + 0.011*"ethereum" + 0.010*"account" + 0.009*"token" + 0.009*"click" + 0.008*"address" + 0.007*"ga"
+Topic: 4 ---- Words: 0.008*"stack" + 0.008*"byte" + 0.008*"data" + 0.006*"valu" + 0.006*"argument" + 0.006*"evm" + 0.006*"memori" + 0.005*"event" + 0.005*"log" + 0.005*"posit"
+Topic: 5 ---- Words: 0.017*"contract" + 0.016*"use" + 0.012*"ethereum" + 0.011*"test" + 0.011*"smart" + 0.009*"deploy" + 0.008*"blockchain" + 0.008*"develop" + 0.008*"run" + 0.008*"truffl"
+Topic: 6 ---- Words: 0.046*"contract" + 0.031*"smart" + 0.011*"token" + 0.008*"code" + 0.008*"secur" + 0.008*"use" + 0.006*"languag" + 0.006*"blockchain" + 0.004*"execut" + 0.004*"transact"
+Topic: 7 ---- Words: 0.005*"uint256" + 0.004*"token" + 0.004*"du" + 0.004*"public" + 0.004*"und" + 0.003*"buy" + 0.003*"ico" + 0.003*"die" + 0.003*"mythril" + 0.003*"auf"
+Topic: 8 ---- Words: 0.024*"ethereum" + 0.015*"blockchain" + 0.009*"network" + 0.009*"transact" + 0.008*"develop" + 0.006*"platform" + 0.005*"user" + 0.005*"chain" + 0.005*"block" + 0.005*"applic"
+Topic: 9 ---- Words: 0.013*"ethereum" + 0.010*"it" + 0.008*"like" + 0.007*"bitcoin" + 0.006*"blockchain" + 0.006*"one" + 0.005*"work" + 0.005*"get" + 0.005*"peopl" + 0.005*"go"
+Topic: 10 ---- Words: 0.031*"contract" + 0.020*"function" + 0.013*"use" + 0.009*"address" + 0.009*"call" + 0.007*"code" + 0.007*"return" + 0.006*"public" + 0.006*"smart" + 0.006*"solid"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 12
+
+
+Topic: 0 ---- Words: 0.040*"contract" + 0.028*"smart" + 0.009*"code" + 0.007*"blockchain" + 0.007*"secur" + 0.006*"use" + 0.006*"languag" + 0.006*"develop" + 0.005*"token" + 0.004*"make"
+Topic: 1 ---- Words: 0.027*"contract" + 0.021*"function" + 0.012*"use" + 0.011*"token" + 0.009*"call" + 0.009*"address" + 0.008*"return" + 0.007*"valu" + 0.007*"code" + 0.007*"transact"
+Topic: 2 ---- Words: 0.021*"contract" + 0.018*"use" + 0.012*"metamask" + 0.011*"ethereum" + 0.010*"smart" + 0.008*"test" + 0.008*"account" + 0.007*"deploy" + 0.007*"address" + 0.007*"creat"
+Topic: 3 ---- Words: 0.013*"node" + 0.012*"token" + 0.007*"wallet" + 0.004*"transfer" + 0.004*"item" + 0.004*"address" + 0.004*"dai" + 0.004*"block" + 0.003*"key" + 0.003*"game"
+Topic: 4 ---- Words: 0.009*"vote" + 0.005*"vbuterin" + 0.005*"key" + 0.004*"method" + 0.004*"yanislav" + 0.003*"sign" + 0.003*"client" + 0.003*"verifi" + 0.003*"beacon" + 0.003*"messag"
+Topic: 5 ---- Words: 0.027*"de" + 0.016*"la" + 0.012*"que" + 0.011*"en" + 0.007*"el" + 0.007*"e" + 0.007*"un" + 0.007*"public" + 0.006*"lo" + 0.006*"remix"
+Topic: 6 ---- Words: 0.009*"ethereum" + 0.008*"vyper" + 0.007*"use" + 0.007*"enterpris" + 0.006*"ident" + 0.005*"key" + 0.004*"contract" + 0.003*"user" + 0.003*"one" + 0.003*"data"
+Topic: 7 ---- Words: 0.021*"ethereum" + 0.011*"blockchain" + 0.007*"transact" + 0.007*"network" + 0.006*"token" + 0.006*"develop" + 0.006*"use" + 0.005*"like" + 0.005*"user" + 0.005*"it"
+Topic: 8 ---- Words: 0.015*"bir" + 0.009*"bu" + 0.008*"channel" + 0.004*"iin" + 0.004*"simplic" + 0.004*"iden" + 0.003*"da" + 0.003*"ile" + 0.003*"drop" + 0.003*"unit"
+Topic: 9 ---- Words: 0.002*"x" + 0.002*"semant" + 0.002*"timescaledb" + 0.001*"contest" + 0.001*"k" + 0.001*"highlevel" + 0.001*"postgresql" + 0.001*"queri" + 0.001*"dataset" + 0.001*"latoken"
+Topic: 10 ---- Words: 0.005*"analysi" + 0.005*"mythril" + 0.004*"mythx" + 0.004*"du" + 0.004*"und" + 0.004*"secur" + 0.003*"name" + 0.003*"die" + 0.003*"list" + 0.003*"auf"
+Topic: 11 ---- Words: 0.008*"key" + 0.006*"game" + 0.005*"index" + 0.005*"player" + 0.005*"row" + 0.005*"delet" + 0.004*"useraddress" + 0.003*"bytes32" + 0.003*"le" + 0.003*"record"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 13
+
+
+Topic: 0 ---- Words: 0.038*"contract" + 0.018*"function" + 0.010*"smart" + 0.010*"use" + 0.009*"code" + 0.008*"address" + 0.007*"token" + 0.007*"call" + 0.006*"public" + 0.006*"return"
+Topic: 1 ---- Words: 0.024*"vyper" + 0.004*"remix" + 0.003*"fundrais" + 0.002*"python" + 0.002*"mbilli" + 0.002*"composit" + 0.002*"love" + 0.001*"syntax" + 0.001*"min" + 0.001*"crash"
+Topic: 2 ---- Words: 0.017*"neo" + 0.007*"cardano" + 0.005*"0x0" + 0.003*"posit" + 0.003*"0x1" + 0.003*"optim" + 0.003*"sstore" + 0.002*"c" + 0.002*"0xc0fefe" + 0.002*"slot"
+Topic: 3 ---- Words: 0.019*"ethereum" + 0.012*"blockchain" + 0.010*"smart" + 0.009*"contract" + 0.008*"develop" + 0.007*"use" + 0.006*"token" + 0.006*"like" + 0.005*"network" + 0.005*"it"
+Topic: 4 ---- Words: 0.012*"vote" + 0.011*"function" + 0.008*"use" + 0.007*"return" + 0.006*"public" + 0.005*"address" + 0.005*"0" + 0.005*"index" + 0.005*"data" + 0.005*"key"
+Topic: 5 ---- Words: 0.006*"trie" + 0.004*"du" + 0.004*"und" + 0.003*"string" + 0.003*"die" + 0.003*"metadata" + 0.003*"utxo" + 0.003*"byte" + 0.003*"auf" + 0.003*"2"
+Topic: 6 ---- Words: 0.039*"metamask" + 0.027*"wallet" + 0.017*"click" + 0.014*"token" + 0.013*"account" + 0.012*"use" + 0.011*"address" + 0.010*"user" + 0.009*"key" + 0.008*"browser"
+Topic: 7 ---- Words: 0.022*"contract" + 0.016*"use" + 0.012*"test" + 0.011*"smart" + 0.011*"ethereum" + 0.010*"deploy" + 0.009*"truffl" + 0.008*"run" + 0.007*"file" + 0.007*"blockchain"
+Topic: 8 ---- Words: 0.030*"contract" + 0.015*"function" + 0.013*"use" + 0.008*"code" + 0.008*"call" + 0.007*"ga" + 0.007*"transact" + 0.007*"solid" + 0.007*"address" + 0.007*"storag"
+Topic: 9 ---- Words: 0.008*"remix" + 0.006*"neo" + 0.005*"visual" + 0.005*"argument" + 0.004*"valu" + 0.004*"studio" + 0.004*"one" + 0.004*"stack" + 0.003*"eth" + 0.003*"price"
+Topic: 10 ---- Words: 0.053*"token" + 0.007*"erc20" + 0.006*"address" + 0.006*"transfer" + 0.005*"standard" + 0.004*"erc721" + 0.004*"1" + 0.004*"cap" + 0.004*"valu" + 0.003*"price"
+Topic: 11 ---- Words: 0.019*"transact" + 0.016*"ethereum" + 0.015*"block" + 0.012*"node" + 0.011*"network" + 0.008*"chain" + 0.007*"valid" + 0.007*"blockchain" + 0.006*"use" + 0.005*"user"
+Topic: 12 ---- Words: 0.037*"de" + 0.022*"la" + 0.016*"que" + 0.015*"en" + 0.010*"el" + 0.010*"e" + 0.009*"un" + 0.009*"lo" + 0.007*"para" + 0.007*"una"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 14
+
+
+Topic: 0 ---- Words: 0.005*"de" + 0.004*"key" + 0.004*"useraddress" + 0.004*"index" + 0.003*"le" + 0.003*"useremail" + 0.003*"bid" + 0.003*"userag" + 0.003*"et" + 0.002*"row"
+Topic: 1 ---- Words: 0.020*"proxi" + 0.007*"kombucha" + 0.006*"du" + 0.006*"capac" + 0.005*"und" + 0.005*"fillamount" + 0.005*"die" + 0.004*"auf" + 0.004*"disput" + 0.004*"approach"
+Topic: 2 ---- Words: 0.017*"ethereum" + 0.015*"contract" + 0.012*"smart" + 0.010*"blockchain" + 0.008*"use" + 0.007*"develop" + 0.006*"like" + 0.006*"it" + 0.005*"user" + 0.005*"transact"
+Topic: 3 ---- Words: 0.010*"bir" + 0.006*"bu" + 0.004*"da" + 0.004*"ethereum" + 0.003*"remix" + 0.003*"de" + 0.003*"file" + 0.003*"f" + 0.003*"key" + 0.003*"iin"
+Topic: 4 ---- Words: 0.022*"transact" + 0.017*"block" + 0.014*"node" + 0.014*"ethereum" + 0.010*"network" + 0.008*"state" + 0.007*"chain" + 0.007*"blockchain" + 0.006*"ga" + 0.006*"valid"
+Topic: 5 ---- Words: 0.019*"ethereum" + 0.010*"blockchain" + 0.008*"network" + 0.007*"develop" + 0.005*"token" + 0.005*"protocol" + 0.005*"2018" + 0.005*"new" + 0.004*"platform" + 0.004*"secur"
+Topic: 6 ---- Words: 0.014*"token" + 0.008*"bitcoin" + 0.008*"price" + 0.007*"market" + 0.007*"eth" + 0.006*"use" + 0.006*"ethereum" + 0.006*"exchang" + 0.005*"trade" + 0.005*"valu"
+Topic: 7 ---- Words: 0.014*"contract" + 0.009*"smart" + 0.007*"code" + 0.005*"secur" + 0.005*"analysi" + 0.004*"tool" + 0.004*"mythril" + 0.004*"issu" + 0.004*"use" + 0.004*"mythx"
+Topic: 8 ---- Words: 0.008*"dai" + 0.003*"cdp" + 0.003*"webassembl" + 0.003*"deconstruct" + 0.003*"document" + 0.003*"startga" + 0.003*"compil" + 0.003*"machin" + 0.002*"metadata" + 0.002*"system"
+Topic: 9 ---- Words: 0.034*"metamask" + 0.024*"wallet" + 0.019*"account" + 0.015*"click" + 0.015*"use" + 0.014*"address" + 0.010*"key" + 0.010*"ethereum" + 0.010*"privat" + 0.009*"token"
+Topic: 10 ---- Words: 0.013*"public" + 0.011*"uint256" + 0.004*"bet" + 0.004*"ico" + 0.004*"token" + 0.004*"1" + 0.004*"buy" + 0.004*"nameserv" + 0.004*"player" + 0.004*"0"
+Topic: 11 ---- Words: 0.016*"contract" + 0.014*"test" + 0.013*"de" + 0.013*"truffl" + 0.012*"deploy" + 0.011*"use" + 0.009*"smart" + 0.009*"la" + 0.008*"run" + 0.008*"instal"
+Topic: 12 ---- Words: 0.036*"contract" + 0.023*"function" + 0.014*"use" + 0.011*"token" + 0.010*"address" + 0.010*"call" + 0.009*"return" + 0.008*"code" + 0.008*"solid" + 0.007*"valu"
+Topic: 13 ---- Words: 0.009*"remix" + 0.006*"transit" + 0.004*"gener" + 0.004*"random" + 0.004*"todo" + 0.004*"oracl" + 0.004*"messag" + 0.003*"note" + 0.003*"cat" + 0.003*"plan"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No of Topics : 15
+
+
+Topic: 0 ---- Words: 0.010*"remix" + 0.007*"it" + 0.006*"car" + 0.006*"work" + 0.005*"peopl" + 0.005*"like" + 0.004*"get" + 0.004*"one" + 0.004*"go" + 0.004*"new"
+Topic: 1 ---- Words: 0.032*"metamask" + 0.023*"wallet" + 0.014*"click" + 0.014*"use" + 0.013*"account" + 0.013*"user" + 0.011*"address" + 0.010*"key" + 0.010*"ethereum" + 0.009*"token"
+Topic: 2 ---- Words: 0.019*"ethereum" + 0.012*"blockchain" + 0.009*"contract" + 0.009*"token" + 0.008*"smart" + 0.008*"develop" + 0.006*"use" + 0.005*"like" + 0.005*"network" + 0.005*"transact"
+Topic: 3 ---- Words: 0.008*"token" + 0.006*"dividend" + 0.004*"challeng" + 0.004*"registri" + 0.004*"f" + 0.003*"marriag" + 0.003*"file" + 0.003*"curv" + 0.003*"p" + 0.003*"oracl"
+Topic: 4 ---- Words: 0.006*"player" + 0.005*"array" + 0.005*"likecoin" + 0.005*"uint256" + 0.004*"vote" + 0.004*"byte" + 0.004*"c" + 0.004*"optim" + 0.003*"bet" + 0.003*"zcash"
+Topic: 5 ---- Words: 0.007*"geth" + 0.004*"genesi" + 0.004*"0x1" + 0.003*"0x0" + 0.003*"bigbom" + 0.003*"00" + 0.002*"1" + 0.002*"bootnod" + 0.002*"job" + 0.002*"marketplac"
+Topic: 6 ---- Words: 0.009*"neo" + 0.008*"data" + 0.004*"arbitr" + 0.004*"plot" + 0.003*"express" + 0.003*"method" + 0.002*"enigma" + 0.002*"chaincod" + 0.002*"blockchain" + 0.002*"byte"
+Topic: 7 ---- Words: 0.043*"de" + 0.026*"la" + 0.019*"que" + 0.017*"en" + 0.012*"e" + 0.012*"el" + 0.011*"un" + 0.010*"lo" + 0.008*"una" + 0.007*"para"
+Topic: 8 ---- Words: 0.038*"contract" + 0.018*"smart" + 0.014*"code" + 0.009*"languag" + 0.008*"secur" + 0.008*"use" + 0.008*"function" + 0.005*"solid" + 0.005*"audit" + 0.004*"program"
+Topic: 9 ---- Words: 0.009*"beacon" + 0.007*"casper" + 0.005*"po" + 0.004*"payment" + 0.004*"bir" + 0.004*"econom" + 0.003*"20" + 0.003*"valid" + 0.003*"chain" + 0.003*"pow"
+Topic: 10 ---- Words: 0.019*"transact" + 0.014*"block" + 0.013*"node" + 0.011*"ethereum" + 0.009*"ga" + 0.008*"network" + 0.007*"data" + 0.007*"use" + 0.007*"state" + 0.006*"blockchain"
+Topic: 11 ---- Words: 0.040*"contract" + 0.019*"function" + 0.017*"use" + 0.011*"smart" + 0.009*"call" + 0.009*"solid" + 0.009*"address" + 0.009*"code" + 0.007*"deploy" + 0.007*"test"
+Topic: 12 ---- Words: 0.022*"token" + 0.008*"valu" + 0.008*"function" + 0.008*"public" + 0.008*"address" + 0.007*"return" + 0.007*"uint256" + 0.007*"key" + 0.006*"index" + 0.005*"list"
+Topic: 13 ---- Words: 0.009*"visual" + 0.009*"neo" + 0.008*"studio" + 0.008*"project" + 0.006*"develop" + 0.006*"window" + 0.006*"instal" + 0.004*"follow" + 0.004*"start" + 0.004*"int"
+Topic: 14 ---- Words: 0.011*"proxi" + 0.006*"trade" + 0.005*"kombucha" + 0.005*"coin" + 0.004*"capac" + 0.004*"le" + 0.004*"bancor" + 0.003*"fillamount" + 0.003*"profit" + 0.003*"updat"--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
